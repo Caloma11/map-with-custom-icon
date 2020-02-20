@@ -1,0 +1,14 @@
+{
+  "name": "02-Geocoder",
+  "version": "1.0.0",
+  "main": "lib/app.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mapbox-gl": "^1.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
